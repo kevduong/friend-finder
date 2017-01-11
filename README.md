@@ -6,7 +6,7 @@ A short survey to find compatible friends!
 
 [Link to Friend Finder](https://friend-finder123.herokuapp.com/)
 
-## Tech used
+### Powered by...
 - Node.js
 - Express.js
 - Bootstrap
