@@ -4,7 +4,7 @@
 
 A short survey to find compatible friends!
 
-[Link to Friend Finder](https://friend-finder123.herokuapp.com/)
+[Click here to try Friend Finder](https://friend-finder123.herokuapp.com/)
 
 ### Powered by...
 - Node.js
